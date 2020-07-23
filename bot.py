@@ -4,7 +4,7 @@ import sqlite3
 from sqlite3 import Error
 from time import sleep, ctime
 
-bot = telebot.TeleBot('1210132890:AAH4eThDpqhh6LIFceg8C9nNtwmED-HVf9I')
+bot = telebot.TeleBot('ввести токен')
 
 print('START')
 
